@@ -1,2 +1,25 @@
-PANGEA 主要是用于ANOVA设计的实验进行power分析
+# PANGEA
+
+PANGEA 主要是用于ANOVA设计的实验进行power分析.
+Power ANalysis for GEneral Anova designs
 https://jakewestfall.shinyapps.io/pangea/
+
+PANGEA 是一个适合于ANOVA的通用软件 (e.g., Winer, Brown, & Michels, 1991)，可以处理任意多个因子，每个因子有任意多个水平的实验设计。其中的任何因素可以是固定或者随机的效应。同时也兼容各位有效的嵌套(nesting)或者交叉模式的设计.
+
+注：由于PANGEA的这个特点，它与G*power 和ANOVApower应该可以算是相互补充。
+
+关于PANGEA的介绍主要是来自Westfall (2016)关于PANGEA的手册。
+
+## PANGEA的基本原理
+### 术语
+因素(Factor):
+
+交叉(crossed)与嵌套(nested)
+
+固定效应(Fixed)与效应效应(random)
+
+重复(replicate)
+
+
+## Reference
+Westfall, J. (2016). PANGEA: Power analysis for general anova designs. Unpublished manuscript. Available at http://jakewestfall. org/publications/pangea. pdf. 
