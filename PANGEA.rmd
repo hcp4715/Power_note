@@ -1,1 +1,2 @@
-
+PANGEA 主要是用于ANOVA设计的实验进行power分析
+https://jakewestfall.shinyapps.io/pangea/
