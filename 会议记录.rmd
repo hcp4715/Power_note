@@ -1,0 +1,12 @@
+2019.11.23 
+参会人员：Zhai Yu, Zhao Li, Zhang Guanyao, Nian Jinqing, Wu Guowei, Hu Chuan-Peng
+
+1 Zhai Yu: G*Power可能适用不止在t-test, ANOVA，还可以使用LM来进行复杂的设计的power计算。接下来要弄清楚的：这个软件能做哪些，哪些分析是非常靠谱的。
+
+2 Zhao Li: ANOVApower的功能，正在整理，接下来继续；
+
+3 Hu Chan-Peng: PANGEA是适用于各种ANOVA，当Gpower和NOVApower不适用的时候，采用PANGEA
+
+4 Nian Jingqing: EEG/ERP实验的trial数问题，接下来要弄清：EEG/ERP的power影响因素有哪些是与行为实验不同的？
+
+5 Wu Guowei: fMRI实验power分析的两个软件包基本功能和适用已经完成，但也需要了解fMRI实验设计与行为实验的不同之处在哪儿？另外trial数怎么确定。
